@@ -71,4 +71,4 @@ fitness_tracker_app/
 
 
 **Output(Img.)**
-
+<img width="1917" height="990" alt="Image" src="https://github.com/user-attachments/assets/48e478d2-3509-4bdb-b54f-b60d3df5da22" />
